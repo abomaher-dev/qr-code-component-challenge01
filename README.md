@@ -46,6 +46,5 @@ Moving forward, I want to keep improving my CSS layout skills (Flexbox and Grid)
 
 ## Author
 
-- Website - [Ahmed Maher](https://www.ahmedmaher.site)
 - Frontend Mentor - [@ahmed-maher0](https://www.frontendmentor.io/profile/ahmed-maher0)
-- Twitter - [@abomaher09](https://x.com/abomaher09)
+- Twitter - [@abomaher_dev](https://x.com/abomaher09)
